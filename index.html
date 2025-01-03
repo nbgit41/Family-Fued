@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buzzer</title>
+<link rel="stylesheet" type="text/css" href="/static/styles.css">
+</head>
+<body>
+    <div class="buzzer left" onclick="buzz('Player 1')">Player 1</div>
+    <div class="buzzer right" onclick="buzz('Player 2')">Player 2</div>
+    <script>
+        function buzz(player) {
+            fetch('/buzz', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ player: player })
+            }).catch(error => console.error("Error sending buzz:", error));
+        }
+    </script>
+</body>
+</html>

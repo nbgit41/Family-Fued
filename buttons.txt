@@ -1,0 +1,10 @@
+y - show question
+w - reset strikes
+e - increment strikes
+r - next question
+t - reset buzzer
+a - correct sound
+i - intro
+o - toggle sound effects
+p - toggle debugging stuff
+q - draw board

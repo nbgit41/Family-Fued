@@ -1,0 +1,360 @@
+Question 1: Name a popular pizza topping?
+Pepperoni;40
+Cheese;25
+Mushrooms;15
+Sausage;10
+Onions;5
+Olives;3
+Pineapple;2
+
+Question 2: Name something you do before going to bed?
+Brush teeth;30
+Take a shower;20
+Read a book;15
+Watch TV;12
+Set an alarm;10
+Drink water;8
+Meditate;5
+
+Question 3: Name a household chore you hate doing?
+Doing the dishes;35
+Laundry;25
+Cleaning the bathroom;20
+Vacuuming;10
+Dusting;5
+Taking out the trash;3
+
+Question 4: Name a place you would hate to be stuck waiting?
+Doctor’s office;40
+DMV;30
+Airport;15
+Traffic jam;10
+Grocery store line;5
+
+Question 5: Name a reason people wake up in the middle of the night?
+Bathroom;35
+Noise;25
+Nightmare;20
+Thirst;15
+Hunger;5
+
+Question 6: Name something you bring to the beach?
+Towel;30
+Sunscreen;25
+Swimsuit;20
+Cooler;10
+Beach chair;8
+Sand toys;5
+
+Question 7: Name something kids hate to eat?
+Broccoli;40
+Brussels sprouts;30
+Spinach;15
+Fish;10
+Cauliflower;5
+
+Question 8: Name something you associate with vampires?
+Blood;40
+Fangs;25
+Garlic;15
+Coffin;10
+Bats;8
+Cape;5
+
+Question 9: Name a popular ice cream flavor?
+Vanilla;35
+Chocolate;30
+Strawberry;15
+Mint chocolate chip;10
+Cookie dough;8
+
+Question 10: Name something people do at a wedding?
+Dance;30
+Eat;25
+Toast;20
+Cry;15
+Take photos;8
+Throw rice/confetti;5
+
+Question 11: Name a bad place to accidentally start a fire?
+Bathroom;35
+Library;25
+Underwear drawer;20
+Hair salon;10
+Cheese factory;5
+
+Question 12: Name something you might find in an alien's refrigerator?
+Green goo;30
+Unlabeled jars;25
+Moon rocks;20
+Frozen humans;10
+Glow sticks;5
+Leftover planets;3
+
+Question 13: Name something you shouldn't wear to a job interview?
+Clown costume;40
+Pajamas;30
+Bathrobe;15
+Swimsuit;10
+Crocs;5
+
+Question 14: Name a strange thing people collect?
+Toenail clippings;40
+Belly button lint;30
+Used gum;15
+Roadkill art;10
+Airplane barf bags;5
+
+Question 15: Name something you wouldn’t want to happen on a first date?
+Accidental fart;35
+Food stuck in teeth;25
+Get locked in a bathroom;20
+Ex shows up;10
+Spill drink on date;5
+Burp mid-sentence;3
+
+Question 16: Name a ridiculous thing to keep in your wallet?
+Old sandwich;40
+Pet rock;30
+Tiny comb for mustaches;15
+Lottery tickets from 1999;10
+Map of Atlantis;5
+
+Question 17: Name a terrible place to hide during a game of hide-and-seek?
+Inside a fish tank;35
+In the oven;25
+Under a glass coffee table;20
+Behind a door that swings open;10
+In the refrigerator;5
+
+Question 18: Name something you’d hate to find in your soup?
+Hair;40
+Toe;30
+Spider;20
+Used band-aid;10
+Rubber duck;5
+
+Question 19: Name something that would make a terrible pet?
+Rock;35
+Cactus;25
+Fire ant colony;20
+Great white shark;10
+Pile of dirt;5
+
+Question 20: Name something you’d do if you were invisible for a day?
+Spy on people;40
+Sneak into movies;30
+Steal snacks;20
+Prank friends;10
+Take a nap anywhere;5
+
+Question 21: Name a sound that would ruin a romantic dinner?
+Grandma snoring;35
+Duck quacking non-stop;25
+Someone loudly eating spaghetti;20
+Chainsaw revving;10
+A random scream;5
+
+Question 22: Name a place you'd hate to find glitter?
+Toilet bowl;40
+Your spaghetti;30
+Inside your socks;20
+In your eyeballs;10
+Dentist's office;5
+
+Question 23: Name something you’d scream if you woke up as a fish?
+"Why do I smell like sushi?";40
+"Where are my legs?!";30
+"Who turned off the gravity?!";20
+"I'm late for work!";10
+"Bubbles everywhere!";5
+
+Question 24: Name an object you'd never want to be haunted by?
+Toothbrush;40
+Toilet seat;30
+Lawn gnome;20
+Left shoe;10
+Pillow;5
+
+Question 25: Name something that would make a terrible superhero power?
+Shooting spaghetti from your nose;35
+Invisibility, but only in the dark;25
+Super loud sneezes;20
+Turning into a chair;10
+Talking to dust;5
+
+Question 26: Name a reason you’d get banned from a library?
+Screaming "I hate books!";40
+Trying to eat the pages;30
+Reading out loud like a Shakespearean actor;20
+Dancing on the tables;10
+Calling the librarian "book cop";5
+
+Question 27: Name something you’d hate to see in your bathtub?
+Angry raccoon;40
+Octopus with a rubber duck;30
+Neighbor's cat;20
+Grandma eating soup;10
+A single sock;5
+
+Question 28: Name a ridiculous excuse for being late to work?
+"My goldfish needed therapy";35
+"I was abducted by clowns";25
+"My shadow wouldn’t follow me";20
+"I lost a staring contest with my cat";10
+"My toast burned a threatening message";5
+
+Question 29: Name something you’d hate to be allergic to?
+Your own shadow;40
+Cheese during pizza night;30
+The color blue;20
+Wi-Fi signals;10
+Laughter;5
+
+Question 30: Name something you’d buy if you suddenly became a billionaire?
+A rocket-powered bathtub;35
+Island shaped like a donut;25
+Golden toilet seat;20
+Life-sized chocolate statue of yourself;10
+A pet dinosaur clone;5
+
+
+Question 31: Name a popular dog breed?
+Labrador Retriever;35
+German Shepherd;30
+Golden Retriever;20
+Bulldog;10
+Poodle;5
+
+Question 32: Name a type of jewelry people wear?
+Ring;40
+Necklace;30
+Bracelet;15
+Earrings;10
+Watch;5
+
+Question 33: Name a vegetable people cook with?
+Carrot;30
+Onion;25
+Potato;20
+Broccoli;10
+Garlic;5
+
+Question 34: Name something you associate with New York City?
+Statue of Liberty;35
+Times Square;30
+Central Park;20
+Broadway;10
+Yellow taxis;5
+
+Question 35: Name a famous dessert?
+Chocolate cake;40
+Ice cream;30
+Cheesecake;20
+Brownies;10
+Apple pie;5
+
+Question 36: Name a holiday where people give gifts?
+Christmas;45
+Birthday;30
+Valentine’s Day;15
+Mother’s Day;5
+Hanukkah;3
+
+Question 37: Name something you would pack for a picnic?
+Sandwiches;40
+Blanket;30
+Drinks;20
+Fruit;10
+Utensils;5
+
+Question 38: Name a mode of transportation?
+Car;50
+Bicycle;20
+Bus;15
+Train;10
+Airplane;5
+
+Question 39: Name a type of weather people dislike?
+Rain;40
+Snow;30
+Thunderstorms;15
+Extreme heat;10
+Hail;5
+
+Question 40: Name an occupation where people wear uniforms?
+Police officer;35
+Doctor;30
+Nurse;20
+Firefighter;10
+Chef;5
+
+Question 41: Name something you might accidentally sit on?
+A whoopee cushion;35
+A sandwich;25
+Your own phone;20
+Your cat;10
+An open paint can;5
+
+Question 42: Name a reason you might get kicked out of a grocery store?
+Riding the shopping cart like a scooter;40
+Eating grapes before paying;30
+Singing loudly into a cucumber like a microphone;20
+Trying to juggle eggs;10
+Challenging a watermelon to a staring contest;5
+
+Question 43: Name a terrible first date activity?
+Snake wrangling;35
+Shoveling snow;25
+A silent mime performance;20
+Watching paint dry;10
+Cage diving with sharks;5
+
+Question 44: Name something you’d hate to find under your bed?
+A live possum;40
+A clown wig;30
+A bowl of spaghetti;20
+Your third-grade diary;10
+A sleeping raccoon;5
+
+Question 45: Name something you’d yell if you saw Bigfoot?
+"Can I get a selfie?";40
+"Run for your lives!";30
+"You owe me rent, Greg!";20
+"Nice beard!";10
+"Where are your shoes?";5
+
+Question 46: Name something you’d hate to be allergic to?
+Coffee;40
+Bacon;30
+Toilet paper;20
+Hugs;10
+Money;5
+
+Question 47: Name something you’d hate to drop on your foot?
+Anvils;40
+Bowling ball;30
+A frozen turkey;20
+Grandma’s fruitcake;10
+Cactus plant;5
+
+Question 48: Name a weird reason someone might quit their job?
+“My desk chair is haunted”;35
+“I discovered I’m allergic to Mondays”;25
+“My coworker keeps eating my lunch”;20
+“The office plants are judging me”;10
+“I got promoted to customer”;5
+
+Question 49: Name something you’d hate to wake up next to?
+A goat wearing pajamas;40
+A plate of spaghetti;30
+A pile of Legos;20
+A raccoon in sunglasses;10
+Your neighbor;5
+
+Question 50: Name something you’d wear to a costume party in a hurry?
+Bed sheet ghost;40
+Your bathrobe;30
+Cardboard box robot;20
+A lampshade;10
+Your sibling’s clothes;5
